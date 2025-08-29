@@ -3,8 +3,8 @@
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![Node.js](https://img.shields.io/badge/Node.js-16%2B-brightgreen)](https://nodejs.org/)
 [![Ollama](https://img.shields.io/badge/Ollama-Compatible-blue)](https://ollama.ai/)
-[![AI Powered](https://img.shields.io/badge/AI-Powered-purple)](https://github.com/jay/course-rag-ollama)
-[![Open Source](https://img.shields.io/badge/Open%20Source-❤️-red)](https://github.com/jay/course-rag-ollama)
+[![AI Powered](https://img.shields.io/badge/AI-Powered-purple)](https://github.com/jayanti-prajapati/course-rag-ollama)
+[![Open Source](https://img.shields.io/badge/Open%20Source-❤️-red)](https://github.com/jayanti-prajapati/course-rag-ollama)
 
 > 🚀 **A powerful Retrieval-Augmented Generation (RAG) system that combines local course data with Ollama LLM for intelligent, privacy-first course recommendations and Q&A.**
 
@@ -326,11 +326,11 @@ MIT License - feel free to use and modify for your projects. See [LICENSE](LICEN
 
 ## 🔗 Links
 
-- **Repository**: [GitHub](https://github.com/jay/course-rag-ollama)
-- **Issues**: [Report Bugs](https://github.com/jay/course-rag-ollama/issues)
-- **Discussions**: [Community](https://github.com/jay/course-rag-ollama/discussions)
+- **Repository**: [GitHub](https://github.com/jayanti-prajapati/course-rag-ollama)
+- **Issues**: [Report Bugs](https://github.com/jayanti-prajapati/course-rag-ollama/issues)
+- **Discussions**: [Community](https://github.com/jayanti-prajapati/course-rag-ollama/discussions)
 - **Ollama**: [Official Website](https://ollama.ai/)
 
 ---
 
-**Need help?** Check the troubleshooting section or [open an issue](https://github.com/jay/course-rag-ollama/issues) with your error logs and system information.
+**Need help?** Check the troubleshooting section or [open an issue](https://github.com/jayanti-prajapati/course-rag-ollama/issues) with your error logs and system information.

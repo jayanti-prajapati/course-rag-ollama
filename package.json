@@ -33,18 +33,18 @@
     "privacy-first"
   ],
   "author": {
-    "name": "Jay",
-    "url": "https://github.com/jay"
+    "name": "Jayanti Prajapati",
+    "url": "https://github.com/jayanti-prajapati"
   },
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jay/course-rag-ollama.git"
+    "url": "https://github.com/jayanti-prajapati/course-rag-ollama.git"
   },
   "bugs": {
-    "url": "https://github.com/jay/course-rag-ollama/issues"
+    "url": "https://github.com/jayanti-prajapati/course-rag-ollama/issues"
   },
-  "homepage": "https://github.com/jay/course-rag-ollama#readme",
+  "homepage": "https://github.com/jayanti-prajapati/course-rag-ollama#readme",
   "engines": {
     "node": ">=16.0.0"
   },
