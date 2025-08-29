@@ -1,0 +1,63 @@
+{
+  "name": "course-rag-ollama",
+  "version": "1.0.0",
+  "description": "🎓 Intelligent Course RAG System with Local LLM - A powerful Retrieval-Augmented Generation system for course recommendations using Ollama and semantic search",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "health": "curl http://localhost:3001/health"
+  },
+  "keywords": [
+    "rag",
+    "retrieval-augmented-generation",
+    "ollama",
+    "llm",
+    "local-ai",
+    "course-recommendation",
+    "semantic-search",
+    "embeddings",
+    "transformers",
+    "education",
+    "ai-assistant",
+    "nodejs",
+    "express",
+    "machine-learning",
+    "nlp",
+    "chatbot",
+    "knowledge-base",
+    "vector-search",
+    "offline-ai",
+    "privacy-first"
+  ],
+  "author": {
+    "name": "Jay",
+    "url": "https://github.com/jay"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jay/course-rag-ollama.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jay/course-rag-ollama/issues"
+  },
+  "homepage": "https://github.com/jay/course-rag-ollama#readme",
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "dependencies": {
+    "@chroma-core/default-embed": "^0.1.8",
+    "@xenova/transformers": "^2.17.2",
+    "body-parser": "^2.2.0",
+    "chromadb": "^3.0.14",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "multer": "^2.0.2",
+    "node-fetch": "^3.3.2",
+    "ollama": "^0.5.17",
+    "pdf-parse": "^1.1.1"
+  }
+}

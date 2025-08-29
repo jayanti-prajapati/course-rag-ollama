@@ -1,0 +1,28 @@
+{
+  "id": 1,
+  "title": "Complete Full-Stack Development Course",
+  "description": "A comprehensive course covering modern web development from frontend to backend. Learn React for building interactive user interfaces with components, props, state management, and hooks. Master advanced React concepts including context API, performance optimization, suspense, and server-side rendering. Build robust backend APIs using Node.js and Express framework with middleware, routing, and authentication. Work with NoSQL databases using MongoDB for data storage, querying, and integration with Node.js applications. Complete hands-on projects building full-stack MERN applications with user authentication, real-time features, and deployment strategies. Gain practical experience with modern development tools, version control, testing, and best practices for scalable web applications.",
+  "topics": [
+    "React",
+    "Node.js",
+    "Express",
+    "MongoDB",
+    "JavaScript",
+    "Full-Stack Development",
+    "API Development",
+    "Database Design",
+    "Authentication",
+    "Web Development"
+  ],
+  "duration": "12 weeks",
+  "level": "Beginner to Advanced",
+  "prerequisites": "Basic HTML, CSS, and JavaScript knowledge",
+  "learning_outcomes": [
+    "Build interactive React applications with modern hooks and state management",
+    "Develop RESTful APIs using Node.js and Express",
+    "Design and implement MongoDB databases",
+    "Create full-stack MERN applications with authentication",
+    "Deploy web applications to production environments",
+    "Apply best practices for code organization and testing"
+  ]
+}
